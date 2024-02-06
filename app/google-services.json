@@ -1,34 +1,92 @@
-{
+
   "project_info": {
-    "project_number": "12957448847",
-    "firebase_url": "https://fir-videocall-d1cf8-default-rtdb.europe-west1.firebasedatabase.app",
-    "project_id": "fir-videocall-d1cf8",
-    "storage_bucket": "fir-videocall-d1cf8.appspot.com"
+    "project_number": "359025795352",
+    "firebase_url": "https://zhomprassmessage.firebaseio.com",
+    "project_id": "zhomprassmessage",
+    "storage_bucket": "zhomprassmessage.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:12957448847:android:abea1125f53b8d133b0efa",
+        "mobilesdk_app_id": "1:359025795352:android:4aed2fd9fd8258bcefbe6d",
         "android_client_info": {
-          "package_name": "com.codewithkael.firebasevideocall"
+          "package_name": "com.my.zhomprass_java"
         }
       },
       "oauth_client": [
         {
-          "client_id": "12957448847-ao0slpr11b5pcbb589q9jsujt13otk2r.apps.googleusercontent.com",
+          "client_id": "359025795352-77a2qgec0rmq24niio0q2k12epirda09.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCcxKqsrfEZfUJuPu6yMpLiHgYmpm68xHE"
+          "current_key": "AIzaSyBDwBPXQ6YGgi3gaFUWZLJjs-up7-5OiMo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "12957448847-ao0slpr11b5pcbb589q9jsujt13otk2r.apps.googleusercontent.com",
+              "client_id": "359025795352-77a2qgec0rmq24niio0q2k12epirda09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359025795352:android:39bd3472e9dc73cfefbe6d",
+        "android_client_info": {
+          "package_name": "com.webrtc.firebasevdocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359025795352-77a2qgec0rmq24niio0q2k12epirda09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDwBPXQ6YGgi3gaFUWZLJjs-up7-5OiMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359025795352-77a2qgec0rmq24niio0q2k12epirda09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359025795352:android:20b2daad4e759ddbefbe6d",
+        "android_client_info": {
+          "package_name": "com.webrtc.firebasevideocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359025795352-77a2qgec0rmq24niio0q2k12epirda09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDwBPXQ6YGgi3gaFUWZLJjs-up7-5OiMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359025795352-77a2qgec0rmq24niio0q2k12epirda09.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
